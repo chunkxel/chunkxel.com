@@ -1,3 +1,3 @@
-# nevexo.space
+# chunkxel.com
 
-This is my very minimal website. 
+A temporary landing page for the Chunkxel Network
